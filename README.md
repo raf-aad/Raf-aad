@@ -1,16 +1,23 @@
-### Hi there 👋
+# 																"Hello word!"																									 # 
+### Me chamo Rafael alexandre 
 
-<!--
-**R44D/R44D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por livros , jogos e Tecnologia  :heart:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![nerdpack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPxa6Y9HdXqPRDyaUzTGNxDCjHLm6HdO8q2g&usqp=CAU)
+
+
+### O que faço hoje ? 
+* Atualmente me encontro cursando o tecnólogo análise e desenvolvimento de sistemas no IFPB
+* fazendo cursos complemetares de Nº assuntos para ver com qual tipo tecnologia mais me adéquo
+
+### Experiência ? (obs : apesar de pouco em algumas)
+* HTML , CSS E JS :heart:
+	* react.js 	
+* C , C ++ :broken_heart:
+* Dart e Flutter :heart:
+* Python
+### Interresses : 
+* Desenvolvimento web 
+* Desenvolvimento mobile
+* Desenvolvimento de jogos
