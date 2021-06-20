@@ -3,7 +3,7 @@
 
 Sou apaixonado por livros , jogos e Tecnologia  :heart:
 
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPxa6Y9HdXqPRDyaUzTGNxDCjHLm6HdO8q2g&usqp=CAU" width="500px" height="500px">
 ![nerdpack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPxa6Y9HdXqPRDyaUzTGNxDCjHLm6HdO8q2g&usqp=CAU)
 
 
