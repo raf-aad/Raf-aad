@@ -17,7 +17,7 @@ Sou apaixonado por livros , jogos e Tecnologia  :heart:
 * C , C ++ :broken_heart:
 * Dart e Flutter :heart:
 * Python
-* 
+
 ### Interresses : 
 
 * Desenvolvimento web 
