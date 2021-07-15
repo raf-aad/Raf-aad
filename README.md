@@ -18,7 +18,7 @@ Sou apaixonado por livros , jogos e Tecnologia  :heart:
 * Dart e Flutter :heart:
 * Python
 
-### Interresses : 
+### Interesses : : 
 
 * Desenvolvimento web 
 * Desenvolvimento mobile
